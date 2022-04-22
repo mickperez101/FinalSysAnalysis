@@ -1,0 +1,22 @@
+h1 {
+
+    padding: 55px;
+    text-align: center;
+
+}
+
+header {
+    font-size: large;
+}
+
+.navbar-brand{
+
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.table-bordered {
+
+    padding-left: 10px;
+    padding-right: 10px;
+}

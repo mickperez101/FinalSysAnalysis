@@ -1,0 +1,65 @@
+h1 {
+
+    padding: 55px;
+    text-align: center;
+
+}
+
+header {
+    font-size: large;
+}
+
+.title{
+    border: 10px;
+    border-radius: 5px;
+    background-color: aliceblue;
+    padding: 15px;
+}
+
+.navbar-brand{
+
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.b-logo{
+
+    text-align: center;
+    height: 320px;
+    width: 450px;
+}
+
+.container-fluid {
+
+    padding-top: 12px;
+}
+
+.bg{
+    background-color: blanchedalmond;
+    width: 100%;
+    height: 100vh;
+    background-size: 100% ;
+}
+
+.content{
+
+    border: 20px;
+    border-radius: 10px;
+    background-color: aliceblue;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+
+    margin-left: 550px;
+    margin-right: 550px;
+
+}
+
+.imageleft{
+    float: left;
+}
+
+.imageRight{
+    float: right;
+
+}
